@@ -1,0 +1,18 @@
+
+[Desktop Entry]
+
+Name=V2Ray
+
+GenericName=V2Ray Client
+
+Comment=A platform for building proxies to bypass network restrictions.
+
+Exec=sudo systemctl start v2ray
+
+Icon=/usr/share/pixmaps/V2.icon
+
+Terminal=false
+
+Type=Application
+
+Categories=Network;Internet;

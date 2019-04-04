@@ -1,0 +1,82 @@
+{
+    "materialTheme.accent": "Sky",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#84FFFF",
+        "list.activeSelectionForeground": "#84FFFF",
+        "list.inactiveSelectionForeground": "#84FFFF",
+        "list.highlightForeground": "#84FFFF",
+        "scrollbarSlider.activeBackground": "#84FFFF50",
+        "editorSuggestWidget.highlightForeground": "#84FFFF",
+        "textLink.foreground": "#84FFFF",
+        "progressBar.background": "#84FFFF",
+        "pickerGroup.foreground": "#84FFFF",
+        "tab.activeBorder": "#84FFFF",
+        "notificationLink.foreground": "#84FFFF",
+        "editorWidget.resizeBorder": "#84FFFF",
+        "editorWidget.border": "#84FFFF",
+        "settings.modifiedItemIndicator": "#84FFFF",
+        "settings.headerForeground": "#84FFFF",
+        "panelTitle.activeBorder": "#84FFFF",
+        "breadcrumb.activeSelectionForeground": "#84FFFF",
+        "menu.selectionForeground": "#84FFFF",
+        "menubar.selectionForeground": "#84FFFF"
+    },
+    "materialTheme.autoApplyIcons": true,
+    "workbench.colorTheme": "Material Theme High Contrast",
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "python.jediEnabled": false,
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "xelatex",
+            "tools": [
+                "xelatex"
+            ]
+        },
+        {
+            "name": "xelatex->bibtex->exlatex*2",
+            "tools": [
+                "xelatex",
+                "bibtex",
+                "xelatex",
+                "xelatex"
+            ]
+        }
+    ],
+    "latex-workshop.latex.tools": [
+        {
+            "name": "xelatex",
+            "command": "xelatex",
+            "args": [
+                "-synctex=1",
+                "-interaction=nonstopmode",
+                "-file-line-error",
+                "%DOC%"
+            ]
+        },
+        {
+            "name": "bibtex",
+            "command": "bibtex",
+            "args": [
+                "%DOCFILE%"
+            ]
+        }
+    ],
+    "latex-workshop.view.pdf.viewer": "tab",
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 20,
+    "window.titleBarStyle": "native",
+    "markdown.extension.toc.githubCompatibility": true,
+    "markdownConverter.Document.FooterTemplate": "<div style=\"font-size: 9px; margin: 0 auto;\"> <span class='pageNumber'></span>/<span class='totalPages'></span></div>",
+    "markdownConverter.Document.Paper.Margin": {
+        "Top": "2cm",
+        "Bottom": "1cm",
+        "Left": "1cm",
+        "Right": "1cm"
+    },
+    "markdownConverter.Document.HeaderTemplate": "",
+    
+}

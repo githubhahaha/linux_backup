@@ -1,0 +1,7 @@
+[http]
+[user]
+	name = xch
+	email = xch970127@outlook.com
+[http]
+[http]
+	proxy = socks5://127.0.0.1:1080

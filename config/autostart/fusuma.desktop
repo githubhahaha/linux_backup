@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Fusuma
+Comment=fusuma
+Exec=sudo fusuma -d
+Icon=/usr/share/pixmaps/fusuma.png
+Terminal=true
+StartupNotify=false
+Type=Application
+Categories=Application;Development;
+

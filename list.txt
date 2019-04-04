@@ -1,0 +1,17 @@
+//fcitx sougou
+//chrome login
+//guake
+//vscode plugin
+//wps snap find...:snap install wps-office-all-lang-no-internet
+ss config
+//v2ray
+//theme icons
+add startup..
+//indicate sticky note
+//netease music
+//change apt source
+extension:appindicator support , appfolders management extension,  dash to dock, netspeed, user themes,   
+//fonts:ms yahei
+//gems install fusuma
+//plank
+
